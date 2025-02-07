@@ -16,7 +16,7 @@ First, I suggest manually installing GPU-related libraries, selecting the versio
 pip3 install torch torchvision torchaudio
 ```
 
-Then, you should download the models (including the file `tokenizer.model` and the folder that store the parameters of the Llama) in folder `.\Model`. For example, you may have the following file structure.
+Then, you should download the models in folder `.\Model`. For example, you may have the following file structure.
 
 ```
 |-- Model
